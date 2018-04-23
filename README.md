@@ -1,2 +1,2 @@
 # LocalHostSrever
-PHP &amp;&amp; Mysql, bootstrap, 
+PHP &amp; Mysql, HTML, CSS, bootstrap, 
